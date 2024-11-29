@@ -977,6 +977,32 @@ module.exports = function (config) {
 
 ```
 
+## File: `frontend/src/Site Details.txt`
+
+```text
+Angular8 - ShoppingCart + MDBootstrap + Firebase + MYSQL + NODE.js + Express.js (Under developing)
+Developing a ShoppingCart (Ecommerce) Application using Angular8.
+
+Live Demo : Angular-node-shopping-cart
+
+This project was generated with Angular CLI version 8.
+
+Functionalities
+Users can view all items when entering the website
+Items are displayed properly based on the selected department and category
+Users can search items through search box
+Support paging if we have too many items
+Users can see item details by selecting a specific item
+Users can add items to their shopping carts
+Users can register/login using using firebase authentication
+Users can update personal profiles with shipping addresses and other info
+Users can checkout with Paypal payment gateway
+Tools and Technologies
+Technology: HTML, MDBootstrap, CSS, Angular-8, Firebase, Nodejs, Express.js .
+Database : My-sql.
+This Projects covers all fundamenta
+```
+
 ## File: `frontend/src/app/app.component.html`
 
 ```html
